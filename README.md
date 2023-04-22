@@ -15,7 +15,7 @@ To run this script, you need to have Python 3 installed on your system. You also
 - Pandas: `pip install pandas`
 - Selenium: `pip install selenium`
 - Tqdm: `pip install tqdm`
-- You can alternatively install the requirements.txt file containing all three: `pip install requirements.txt`
+- You can alternatively install the requirements.txt file containing all three packages: `pip install requirements.txt`
 ## Usage
 
 To use this script, you need to provide a valid csv file containing Amazon Product Page URLs.
